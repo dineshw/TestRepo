@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ArrayOfAnimal>
+  <Animal>
+    <TypeName>Dog</TypeName>
+    <NumberOfLegs>4</NumberOfLegs>
+    <DailyFeedCost>15</DailyFeedCost>
+  </Animal>
+  <Animal>
+    <TypeName>Cat</TypeName>
+    <NumberOfLegs>4</NumberOfLegs>
+    <DailyFeedCost>10</DailyFeedCost>
+  </Animal>
+</ArrayOfAnimal>
