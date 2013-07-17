@@ -1,0 +1,13 @@
+- Update Readme
+	- Add Rake/Ruby version info
+	- prerequisites
+
+- Add 'Project Overview'
+	- Introduction
+	- Key Components
+		- AnimalMakerFactory
+		- Animal Maker(s)
+		- Repositories
+	- Non functional requirements
+		- Extensibility
+		- 
